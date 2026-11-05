@@ -1,2 +1,4 @@
 # Original source PDFs: copyright/licensed material, never commit to the public repository
 data/raw/
+__pycache__/
+*.pyc
